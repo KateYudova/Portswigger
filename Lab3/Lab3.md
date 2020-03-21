@@ -16,7 +16,7 @@ Lab: SQL injection UNION attack, determining the number of columns returned by t
 
 ![](4.jpg)
 
-5) И у нас выводятся наши колонки, значит, в запросе 3 столбца
+4) И у нас выводятся наши колонки, значит, в запросе 3 столбца
 
 ![](5.jpg)
 
